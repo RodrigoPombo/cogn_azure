@@ -7,7 +7,7 @@ from PIL import Image
 from io import BytesIO
 from PIL import Image, ImageDraw
 import matplotlib.image as mpimg
-
+#tocommit
 color="blue"
 
 analyze_url = "https://westeurope.api.cognitive.microsoft.com/face/v1.0/detect?returnFaceId=true&returnFaceLandmarks=true"
