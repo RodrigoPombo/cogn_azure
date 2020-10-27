@@ -3,7 +3,7 @@ azure-storage-blob==12.3.0
 certifi==2018.8.24
 cffi==1.14.0
 chardet==3.0.4
-cryptography==2.9
+cryptography==3.2
 cycler==0.10.0
 databricks-connect==6.2.0
 idna==2.9
